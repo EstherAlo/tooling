@@ -75,4 +75,4 @@ Default web root:
 
 checking tooling
 
-checking
+checking config
